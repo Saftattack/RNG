@@ -1,2 +1,2 @@
 # RNG
-Quick and effecting random number generator (Upload Test)
+Quick and effective random number generator (Upload Test)
